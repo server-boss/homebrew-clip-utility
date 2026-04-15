@@ -2,7 +2,7 @@ class ClipUtility < Formula
   desc "Composable clipboard transformer for macOS — CLI, TUI, and Shortcuts"
   homepage "https://github.com/server-boss/clip-utility"
   url "https://github.com/server-boss/clip-utility/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "596050ff6b4a1e549dcb886772696e65fa7ab7f8bbcc07da10596bcda7e1b0d4"
+  sha256 "103efc1603c46ab629835f94db7f1406ce2d2c86b842c0cb3db2a817abba0fa9"
   license "MIT"
 
   depends_on :macos
